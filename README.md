@@ -1,2 +1,2 @@
-![io7m.com](profile/readme.jpg?raw=true)
+![io7m.com](readme.jpg?raw=true)
 
