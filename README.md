@@ -2,7 +2,9 @@
 
 Hello!
 
-You probably want the [io7m-com](https://www.github.com/io7m-com/)
-organization.  This `io7m` account is my personal account, and mostly
-has artistic works and experimental repositories.
+In 2026-06, I migrated to [Codeberg](https://codeberg.org/io7m-com). You should
+probably go there instead.
 
+This `io7m` account is my personal account, and mostly has artistic works and 
+experimental repositories. It is also used to interact with projects that are
+on GitHub.
